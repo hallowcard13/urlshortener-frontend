@@ -1,5 +1,23 @@
+body{
+  background-color: #02cf87 !important;
+}
 .App {
   text-align: center;
+}
+.Main-form{
+  margin-top:20px;
+  color:#fff;
+}
+.uppercase{
+  text-transform: uppercase;
+  font-size: 3.5em;
+  margin-bottom: 30px;
+}
+.text-center{
+  text-align: center;
+}
+.Main-button-submit{
+  margin-left: 10px;
 }
 
 .App-logo {
